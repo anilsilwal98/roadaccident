@@ -1,0 +1,1 @@
+[{"fields": {"name": "kathmandu"}, "model": "accident.district", "pk": 1}, {"fields": {"name": "lalitpur"}, "model": "accident.district", "pk": 2}, {"fields": {"name": "bhaktapur"}, "model": "accident.district", "pk": 3}]
